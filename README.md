@@ -1,4 +1,4 @@
-# MLACAD Project
+# MLACAD
 
 A deep learning project for CAD (Computer-Aided Design) sequence modeling and generation using mla-enhanced transformer-based architecture.
 
